@@ -1,0 +1,5 @@
+- Hafta 1'de derse katılamadım.
+- Daha sonra bash dosyasını inceledim.
+- Kodda kullanıcıdan bir hedef site alınıyor ve ping komutuyla sürekli veri gönderiliyor.
+- Temel terminal komutlarının kullanımı, kullanıcı girdisi alma ve otomatik işlem mantığı inceledim.
+
